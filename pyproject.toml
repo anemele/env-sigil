@@ -1,6 +1,8 @@
 [project]
 name = "env-sigil"
 version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
 requires-python = ">=3.12"
 dependencies = [
     "lxml[cssselect]>=5.3.1",
